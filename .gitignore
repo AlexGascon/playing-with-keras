@@ -1,6 +1,9 @@
 # Checkpoints
 *-checkpoint.ipynb
 
+# Neural network weights
+*.hdf5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
